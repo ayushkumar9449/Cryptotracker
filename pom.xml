@@ -11,8 +11,8 @@
 	<groupId>com.CryptoTracker</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>CryptoTracker</name>
+	<description>Spring Boot web app to track live cryptocurrency prices via CoinGecko API</description>
 	<url/>
 	<licenses>
 		<license/>
